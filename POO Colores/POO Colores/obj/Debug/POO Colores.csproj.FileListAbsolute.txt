@@ -1,0 +1,10 @@
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\bin\Debug\POO Colores.exe.config
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\bin\Debug\POO Colores.exe
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\bin\Debug\POO Colores.pdb
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\obj\Debug\POO Colores.csprojAssemblyReference.cache
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\obj\Debug\POO_Colores.Form1.resources
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\obj\Debug\POO_Colores.Properties.Resources.resources
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\obj\Debug\POO Colores.csproj.GenerateResource.cache
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\obj\Debug\POO Colores.csproj.CoreCompileInputs.cache
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\obj\Debug\POO Colores.exe
+C:\Users\Rbeat\source\repos\POO Colores\POO Colores\obj\Debug\POO Colores.pdb

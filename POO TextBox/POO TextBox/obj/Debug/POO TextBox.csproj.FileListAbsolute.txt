@@ -1,0 +1,10 @@
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\bin\Debug\POO TextBox.exe.config
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\bin\Debug\POO TextBox.exe
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\bin\Debug\POO TextBox.pdb
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\obj\Debug\POO TextBox.csprojAssemblyReference.cache
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\obj\Debug\POO_TextBox.Form1.resources
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\obj\Debug\POO_TextBox.Properties.Resources.resources
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\obj\Debug\POO TextBox.csproj.GenerateResource.cache
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\obj\Debug\POO TextBox.csproj.CoreCompileInputs.cache
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\obj\Debug\POO TextBox.exe
+C:\Users\Rbeat\source\repos\POO TextBox\POO TextBox\obj\Debug\POO TextBox.pdb
